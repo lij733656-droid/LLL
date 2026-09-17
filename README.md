@@ -12,3 +12,6 @@
 - 学习条件判断和循环
 - 学习数组与函数
 - 记录平时的实验和练习
+## Git 学习记录
+
+正在学习 Git 的 clone、add、commit、push 和 pull。
